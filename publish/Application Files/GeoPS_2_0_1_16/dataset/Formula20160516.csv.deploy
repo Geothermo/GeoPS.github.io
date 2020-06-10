@@ -1,0 +1,174 @@
+,,,,,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+,,,,,1,1,1,3,2,1,1,1,2,1,1,2,,,,,,
+Index,?Group,End-member,Symbol,Formula,H2O,Na2O,MgO,Al2O3,SiO2,K2O,CaO,FeO,TiO2,MnO,NiO,ZrO2,O2,C,Cl,F,P,S
+1,Ortho-&ring silicates,akermanite,ak,Ca2MgSi2O7,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,Ortho-&ring silicates,almandine,alm,Fe3Al2Si3O12,0,0,0,1,3,0,0,3,0,0,0,0,0,0,0,0,0,0
+3,Ortho-&ring silicates,andalusite,and,Al2SiO5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Ortho-&ring silicates,andradite,andr,Ca3Fe2Si3O12,0,0,0,0,3,0,3,2,0,0,0,0,0.5,0,0,0,0,0
+5,Ortho-&ring silicates,clinohumite,chum,Mg9Si4O16(OH)2,1,0,9,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Ortho-&ring silicates,clinozoisite,cz,Ca2Al3Si3O12(OH),0.5,0,0,1.5,3,0,2,0,0,0,0,0,0,0,0,0,0,0
+7,Ortho-&ring silicates,epidote(ordered),ep,Ca2FeAl2Si3O12(OH),0.5,0,0,1,3,0,2,1,0,0,0,0,0.25,0,0,0,0,0
+8,Ortho-&ring silicates,fayalite,fa,Fe2SiO4,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+9,Ortho-&ring silicates,Fe每chloritoid,fctd,FeAl2SiO5(OH)2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+10,Ortho-&ring silicates,Fe每cordierite,fcrd,Fe2Al4Si5O18,0,0,0,2,5,0,0,2,0,0,0,0,0,0,0,0,0,0
+11,Ortho-&ring silicates,Fe每epidote,fep,Ca2Fe2AlSi3O12(OH),0.5,0,0,0.5,3,0,2,2,0,0,0,0,0.5,0,0,0,0,0
+12,Ortho-&ring silicates,Fe每staurolite,fst,Fe4Al18Si7.5O48H4,2,0,0,9,7.5,0,0,4,0,0,0,0,0,0,0,0,0,0
+13,Ortho-&ring silicates,Fe每osumilite,fosm,KFe2Al5Si10O30,0,0,0,2.5,10,0.5,0,2,0,0,0,0,0,0,0,0,0,0
+14,Ortho-&ring silicates,forsterite,fo,Mg2SiO4,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Ortho-&ring silicates,gehlenite,geh,Ca2Al2SiO7,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+16,Ortho-&ring silicates,grossular,gr,Ca3Al2Si3O12,0,0,0,1,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+17,Ortho-&ring silicates,hydrous cordierite,hcrd,Mg2Al4Si5O18﹞H2O,1,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Ortho-&ring silicates,kyanite,ky,Al2SiO5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Ortho-&ring silicates,larnite每bredigite,lrn,Ca2SiO4,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+20,Ortho-&ring silicates,lawsonite,law,CaAl2Si2O7(OH)2﹞H2O,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,Ortho-&ring silicates,merwinite,merw,Ca3MgSi2O8,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0
+22,Ortho-&ring silicates,Mg每chloritoid,mctd,MgAl2SiO5(OH)2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Ortho-&ring silicates,cordierite,crd,Mg2Al4Si5O18,0,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Ortho-&ring silicates,Mg每staurolite,mst,Mg4Al18Si7.5O48H4,2,0,4,9,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Ortho-&ring silicates,Mn每chloritoid,mnctd,MnAl2SiO5(OH)2,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+26,Ortho-&ring silicates,Mn每cordierite,mncrd,Mn2Al4Si5O18,0,0,0,2,5,0,0,0,0,2,0,0,0,0,0,0,0,0
+27,Ortho-&ring silicates,Mn每staurolite,mnst,Mn4Al18Si7.5O48H4,2,0,0,9,7.5,0,0,0,0,4,0,0,0,0,0,0,0,0
+28,Ortho-&ring silicates,monticellite,mont,CaMgSiO4,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+29,Ortho-&ring silicates,osumilite(1),osm1,KMg2Al5Si10O30,0,0,2,2.5,10,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+30,Ortho-&ring silicates,osumilite(2),osm2,KMg3Al3Si11O30,0,0,3,1.5,11,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+31,Ortho-&ring silicates,phase A,phA,Mg7Si2O8(OH)6,3,0,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Ortho-&ring silicates,pumpellyite,pump,Ca4MgAl5Si6O21(OH)7,3.5,0,1,2.5,6,0,4,0,0,0,0,0,0,0,0,0,0,0
+33,Ortho-&ring silicates,pyrope,py,Mg3Al2Si3O12,0,0,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Ortho-&ring silicates,rankinite,rnk,Ca3Si2O7,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0
+35,Ortho-&ring silicates,sillimanite,sill,Al2SiO5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Ortho-&ring silicates,spessartine,spss,Mn3Al2Si3O12,0,0,0,1,3,0,0,0,0,3,0,0,0,0,0,0,0,0
+37,Ortho-&ring silicates,sphene,sph,CaTiSiO5,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+38,Ortho-&ring silicates,spurrite,spu,Ca5Si2O8(CO3),0,0,0,0,2,0,5,0,0,0,0,0,1,1,0,0,0,0
+39,Ortho-&ring silicates,tephroite,teph,Mn2SiO4,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+40,Ortho-&ring silicates,tilleyite,ty,Ca5Si2O7(CO3)2,0,0,0,0,2,0,5,0,0,0,0,0,2,2,0,0,0,0
+41,Ortho-&ring silicates,hydroxy每topaz,tpz,Al2SiO4(OH)2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Ortho-&ring silicates,vesuvianite,vsv,Ca19Mg2Al11Si18O69(OH)9,4.5,0,2,5.5,18,0,19,0,0,0,0,0,0,0,0,0,0,0
+43,Ortho-&ring silicates,zircon,zrc,ZrSiO4,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+44,Ortho-&ring silicates,zoisite,zo,Ca2Al3Si3O12(OH),0.5,0,0,1.5,3,0,2,0,0,0,0,0,0,0,0,0,0,0
+45,Pyroxenes& pyroxenoids,acmite,acm,NaFeSi2O6,0,0.5,0,0,2,0,0,1,0,0,0,0,0.25,0,0,0,0,0
+46,Pyroxenes& pyroxenoids,Ca每Tschermak pyroxene,cats,CaAl2SiO6,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+47,Pyroxenes& pyroxenoids,diopside,di,CaMgSi2O6,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+48,Pyroxenes& pyroxenoids,enstatite,en,Mg2Si2O6,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Pyroxenes& pyroxenoids,ferrosilite,fs,Fe2Si2O6,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+50,Pyroxenes& pyroxenoids,hedenbergite,hed,CaFeSi2O6,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0
+51,Pyroxenes& pyroxenoids,jadeite,jd,NaAlSi2O6,0,0.5,0,0.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Pyroxenes& pyroxenoids,Mg每Tschermak pyroxene,mgts,MgAl2SiO6,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Pyroxenes& pyroxenoids,pseudowollastonite,pswo,CaSiO3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,Pyroxenes& pyroxenoids,pyroxmangite,pxmn,MnSiO3,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+55,Pyroxenes& pyroxenoids,rhodonite,rhod,MnSiO3,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+56,Pyroxenes& pyroxenoids,wollastonite,wo,CaSiO3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+57,Amphiboles,anthophyllite,anth,Mg7Si8O22(OH)2,1,0,7,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Amphiboles,cummingtonite,cumm,Mg7Si8O22(OH)2,1,0,7,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Amphiboles,Fe每glaucophane,fgl,Na2Fe3Al2Si8O22(OH)2,1,1,0,1,8,0,0,3,0,0,0,0,0,0,0,0,0,0
+60,Amphiboles,Fe每anthophyllite,fanth,Fe7Si8O22(OH)2,1,0,0,0,8,0,0,7,0,0,0,0,0,0,0,0,0,0
+61,Amphiboles,ferroactinolite,ftr,Ca2Fe5Si8O22(OH)2,1,0,0,0,8,0,2,5,0,0,0,0,0,0,0,0,0,0
+62,Amphiboles,gedrite(Na-free),ged,Mg5Al4Si6O22(OH)2,1,0,5,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Amphiboles,glaucophane,gl,Na2Mg3Al2Si8O22(OH)2,1,1,3,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Amphiboles,grunerite,grun,Fe7Si8O22(OH)2,1,0,0,0,8,0,0,7,0,0,0,0,0,0,0,0,0,0
+65,Amphiboles,pargasite,parg,NaCa2Mg4Al3Si6O22(OH)2,1,0.5,4,1.5,6,0,2,0,0,0,0,0,0,0,0,0,0,0
+66,Amphiboles,riebeckite,rieb,Na2Fe5Si8O22(OH)2,1,1,0,0,8,0,0,5,0,0,0,0,0.5,0,0,0,0,0
+67,Amphiboles,tremolite,tr,Ca2Mg5Si8O22(OH)2,1,0,5,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0
+68,Amphiboles,tschermakite,ts,Ca2Mg3Al4Si6O22(OH)2,1,0,3,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0
+69,Otherchain silicates,deerite,deer,Fe18Si12O40(OH)10,5,0,0,0,12,0,0,18,0,0,0,0,1.5,0,0,0,0,0
+70,Otherchain silicates,Fe每carpholite,fcar,FeAl2Si2O6(OH)4,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+71,Otherchain silicates,Fe每sapphirine(793),fspr,Fe3.5Al9Si1.5O20,0,0,0,4.5,1.5,0,0,3.5,0,0,0,0,0,0,0,0,0,0
+72,Otherchain silicates,Mg每carpholite,mcar,MgAl2Si2O6(OH)4,2,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Otherchain silicates,sapphirine(442),spr4,Mg4Al8Si2O20,0,0,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Otherchain silicates,sapphirine(793),spr7,Mg3.5Al9Si1.5O20,0,0,3.5,4.5,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Micas,annite,ann,KFe3AlSi3O10(OH)2,1,0,0,0.5,3,0.5,0,3,0,0,0,0,0,0,0,0,0,0
+76,Micas,celadonite,cel,KMgAlSi4O10(OH)2,1,0,1,0.5,4,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+77,Micas,eastonite,east,KMg2Al3Si2O10(OH)2,1,0,2,1.5,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+78,Micas,Fe每celadonite,fcel,KFeAlSi4O10(OH)2,1,0,0,0.5,4,0.5,0,1,0,0,0,0,0,0,0,0,0,0
+79,Micas,margarite,ma,CaAl4Si2O10(OH)2,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+80,Micas,Mn每biotite,mnbi,KMn3AlSi3O10(OH)2,1,0,0,0.5,3,0.5,0,0,0,3,0,0,0,0,0,0,0,0
+81,Micas,muscovite,mu,KAl3Si3O10(OH)2,1,0,0,1.5,3,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+82,Micas,Na每phlogopite,naph,NaMg3AlSi3O10(OH)2,1,0.5,3,0.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Micas,paragonite,pa,NaAl3Si3O10(OH)2,1,0.5,0,1.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Micas,phlogopite,phl,KMg3AlSi3O10(OH)2,1,0,3,0.5,3,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+85,Chlorites,Al-free chlorite,afchl,Mg6Si4O10(OH)4,4,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Chlorites,amesite(14Ang),ames,Mg4Al4Si2O10(OH)4,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Chlorites,clinochlore(ordered),clin,Mg5Al2Si3O10(OH)4,4,0,5,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Chlorites,daphnite,daph,Fe5Al2Si3O10(OH)4,4,0,0,1,3,0,0,5,0,0,0,0,0,0,0,0,0,0
+89,Chlorites,Fe每sudoite,fsud,Fe2Al4Si3O10(OH)4,4,0,0,2,3,0,0,2,0,0,0,0,0,0,0,0,0,0
+90,Chlorites,Mn每chlorite,mnchl,Mn5Al2Si3O10(OH)4,4,0,0,1,3,0,0,0,0,5,0,0,0,0,0,0,0,0
+91,Chlorites,sudoite,sud,Mg2Al4Si3O10(OH)4,4,0,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Othersheet silicates,antigorite,atg,Mg48Si34O85(OH)62,31,0,48,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Othersheet silicates,chrysotile,chr,Mg3Si2O5(OH)2,2,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Othersheet silicates,Fe每talc,fta,Fe3Si4O10(OH)2,1,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,0,0
+95,Othersheet silicates,kaolinite,kao,Al2Si2O5(OH)4,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Othersheet silicates,prehnite,pre,Ca2Al2Si3O10(OH)2,1,0,0,1,3,0,2,0,0,0,0,0,0,0,0,0,0,0
+97,Othersheet silicates,pyrophyllite,prl,Al2Si4O10(OH)2,1,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Othersheet silicates,talc,ta,Mg3Si4O10(OH)2,1,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Othersheet silicates,tschermak每talc,tats,Mg2Al2Si3O10(OH)2,1,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,Framework silicates,albite,ab,NaAlSi3O8,0,0.5,0,0.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Framework silicates,analcite,anl,NaAlSi2O6﹞H2O,1,0.5,0,0.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Framework silicates,anorthite,an,CaAl2Si2O8,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+103,Framework silicates,coesite,coe,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,Framework silicates,cristobalite,crst,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Framework silicates,heulandite,heu,CaAl2Si7O18﹞6H2O,6,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,0,0
+106,Framework silicates,high albite,abh,NaAlSi3O8,0,0.5,0,0.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,Framework silicates,kalsilite,kals,KAlSiO4,0,0,0,0.5,1,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+108,Framework silicates,laumontite,lmt,CaAl2Si4O12﹞4H2O,4,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+109,Framework silicates,leucite,lc,KAlSi2O6,0,0,0,0.5,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+110,Framework silicates,meionite,me,Ca4Al6Si6O24(CO3),0,0,0,3,6,0,4,0,0,0,0,0,1,1,0,0,0,0
+111,Framework silicates,microcline,mic,KAlSi3O8,0,0,0,0.5,3,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+112,Framework silicates,nepheline,ne,NaAlSiO4,0,0.5,0,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Framework silicates,quartz,q,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Framework silicates,sanidine,san,KAlSi3O8,0,0,0,0.5,3,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+115,Framework silicates,stilbite,stlb,CaAl2Si7O18﹞7H2O,7,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,0,0
+116,Framework silicates,stishovite,stv,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Framework silicates,tridymite,trd,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Framework silicates,wairakite,wrk,CaAl2Si4O12﹞H2O,2,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+119,Oxides,baddeleyite,bdy,ZrO2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+120,Oxides,corundum,cor,Al2O3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Oxides,geikielite,geik,MgTiO3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+122,Oxides,hematite,hem,Fe2O3,0,0,0,0,0,0,0,2,0,0,0,0,0.5,0,0,0,0,0
+123,Oxides,hercynite,herc,FeAl2O4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+124,Oxides,ilmenite,ilm,FeTiO3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+125,Oxides,lime,lime,CaO,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+126,Oxides,magnesioferrite,mft,MgFe2O4,0,0,1,0,0,0,0,2,0,0,0,0,0.5,0,0,0,0,0
+127,Oxides,magnetite,mt,Fe3O4,0,0,0,0,0,0,0,3,0,0,0,0,0.5,0,0,0,0,0
+128,Oxides,manganosite,mang,MnO,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+129,Oxides,nickel oxide,NiO,NiO,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+130,Oxides,periclase,per,MgO,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,Oxides,pyrophanite,pnt,MnTiO3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+132,Oxides,rutile,ru,TiO2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+133,Oxides,spinel,sp,MgAl2O4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Oxides,ulvospinel,usp,Fe2TiO4,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+135,Hydroxides,brucite,br,Mg(OH)2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Hydroxides,diaspore,dsp,AlO(OH),0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Hydroxides,goethite,gth,FeO(OH),0.5,0,0,0,0,0,0,1,0,0,0,0,0.25,0,0,0,0,0
+138,Carbonates,ankerite,ank,CaFe(CO3)2,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,0
+139,Carbonates,aragonite,arag,CaCO3,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+140,Carbonates,calcite,cc,CaCO3,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+141,Carbonates,dolomite,dol,CaMg(CO3)2,0,0,1,0,0,0,1,0,0,0,0,0,2,2,0,0,0,0
+142,Carbonates,magnesite,mag,MgCO3,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+143,Carbonates,rhodochrosite,rhc,MnCO3,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+144,Carbonates,siderite,sid,FeCO3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+145,Elements,diamond,diam,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+146,Elements,graphite,gph,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+147,Elements,iron,iron,Fe,0,0,0,0,0,0,0,1,0,0,0,0,-0.5,0,0,0,0,0
+148,Elements,nickel,Ni,Ni,0,0,0,0,0,0,0,0,0,0,1,0,-0.5,0,0,0,0,0
+149,Gasspecies,methane,CH4,CH4,2,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0
+150,Gasspecies,carbon monoxide,CO,CO,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,0,0,0
+151,Gasspecies,carbon dioxide,CO2,CO2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+152,Gasspecies,hydrogen,H2,H2,1,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0
+153,Gasspecies,waterfluid,H2O,H2O,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Gasspecies,oxygen,O2,O2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+155,Meltspecies,albite liquid,abL,NaAlSi3O8,0,0.5,0,0.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,Meltspecies,anorthite liquid,anL,CaAl2Si2O8,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+157,Meltspecies,diopside liquid,diL,CaMgSi2O6,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+158,Meltspecies,enstatite liquid,enL,Mg2Si2O6,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Meltspecies,fayalite liquid,faL,Fe2SiO4,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+160,Meltspecies,forsterite liquid,foL,Mg2SiO4,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Meltspecies,H2O liquid,h2oL,H2O,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Meltspecies,K-feldspar liquid,kspL,KAlSi3O8,0,0,0,0.5,3,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+163,Meltspecies,silica liquid,qL,SiO2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,Meltspecies,sillimanite liquid,silL,Al2SiO5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,Salt,Sylvite liquid,syvL,KCl,0,0,0,0,0,0.5,0,0,0,0,0,0,-0.25,0,1,0,0,0
+166,Salt,halite liquid,hltL,NaCl,0,0.5,0,0,0,0,0,0,0,0,0,0,-0.25,0,1,0,0,0
+167,Meltspecies,fayalite liquid ,fa8L,,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0
+168,Meltspecies,forsterite liquid ,fo8L,,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Meltspecies,silica liquid ,q8L,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,Meltspecies,sillimanite liquid ,sil8L,,0,0,0,1.6,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,,ferric opx,mots,,0,0,1,0.5,1,0,0,1,0,0,0,0,0.25,0,0,0,0,0

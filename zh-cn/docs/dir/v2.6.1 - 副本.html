@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="keywords" content="v2.6.1 - 副本" />
+	<meta name="description" content="v2.6.1 - 副本" />
+	<!-- 网页标签标题 -->
+	<title>v2.6.1 - 副本</title>
+	<link rel="shortcut icon" href="/img/docsite.ico"/>
+	<link rel="stylesheet" href="/build/documentation.css" />
+</head>
+<body>
+	<div id="root"><div class="documentation-page" data-reactroot=""><header class="header-container header-container-normal"><div class="header-body"><a href="/zh-cn/index.html"><img class="logo" src="/img/dubbo_colorful.png"/></a><div class="search search-normal"><span class="icon-search"></span></div><span class="language-switch language-switch-normal">En</span><div class="header-menu"><img class="header-menu-toggle" src="/img/system/menu_gray.png"/><ul><li class="menu-item menu-item-normal"><a href="/zh-cn/index.html" target="_self">首页</a></li><li class="menu-item menu-item-normal menu-item-normal-active"><a href="/zh-cn/docs/demo1.html" target="_self">文档</a></li><li class="menu-item menu-item-normal"><a href="/zh-cn/blog/index.html" target="_self">博客</a></li><li class="menu-item menu-item-normal"><a href="/zh-cn/community/index.html" target="_self">社区</a></li></ul></div></div></header><div class="bar"><div class="bar-body"><img src="/img/system/docs.png" class="front-img"/><span>文档</span><img src="/img/system/docs.png" class="back-img"/></div></div><section class="content-section"><div class="sidemenu"><div class="sidemenu-toggle"><img src="https://img.alicdn.com/tfs/TB1E6apXHGYBuNjy0FoXXciBFXa-200-200.png"/></div><ul><li class="menu-item menu-item-level-1"><span>大标题</span><ul><li style="height:36px;overflow:hidden" class="menu-item menu-item-level-2"><a href="/zh-cn/docs/demo1.html" target="_self">示例1</a></li><li style="height:36px;overflow:hidden" class="menu-item menu-item-level-2"><a href="/zh-cn/docs/demo2.html" target="_self">示例2</a></li><li style="height:108px;overflow:hidden" class="menu-item menu-item-level-2"><span>更新说明<img style="transform:rotate(0deg)" class="menu-toggle" src="/img/system/arrow_down.png"/></span><ul><li class="menu-item menu-item-level-3"><a href="/zh-cn/docs/dir/demo3.html" target="_self">示例3</a></li><li class="menu-item menu-item-level-3"><a href="/zh-cn/docs/dir/update.html" target="_self">v2.6.1</a></li></ul></li></ul></li></ul></div><div class="doc-content markdown-body"><h1>v2.6.1 功能更新说明</h1>
+<p>发布日期：2020-5-26</p>
+<p>功能更新：</p>
+<p>1、更正和优化了沿P-T轨迹（1D）相平衡模拟计算功能。</p>
+<pre><code>  新版本中，添加分离相时，可以是活度模型名称也可以是矿物（相）名称。例如熔体分离，可输入Melt(W),也可以是Liquid、或 melt。
+
+  使用分离模型时，之前版本中显示的图不包含已分离的矿物相部分，只包含当前平衡体系中各矿物相的百分含量。当前版本中矿物相含量累积图包含了分离相，可以看到已分离相的含量。
+
+  优化了矢量图输出，更正了1D相图不能输出为SVG格式的错误。
+</code></pre>
+<p>2、优化了1D相平衡模拟结果的输出。原版中计算完直接提示保存，当前版本更改为与2D相图一致的方法，通过“文件-&gt;导出结果”菜单来保存。且对数据格式进行了优化调整，以便于用excel处理和做图。</p>
+<p>3、优化了相图坐标刻度和标签的显示和输出。</p>
+<p>4、修复了“显示结果”功能中的bug。原版的显示结果中，可能会将属同一溶体模型的两个或多个不同成分的相合并为了一个相 。</p>
+<p>5、修复了少数矿物组合标注位置可能会偏离了所对应的区的问题。</p>
+<p>6、更改了活度模型的显示方式。之前版本中活度模型按Perple_X中的文本格式显示，现改为软件内部活度模型的数据结构来显示，便于实现用户自主修改和增减功能。</p>
+<p>7、默认线程数更改为原来的1/2。因为两者计算效率相似。</p>
+<p>8、在创建任务的主界面上添加了一个是否采用多线程计算的选项框。默认选中为多线程模式、取消选择则为单线程模式。某些情况下，单线程计算结果可能会优于多线程。对于某些区域比较乱时，可用单线程计算。</p>
+</div></section><footer class="footer-container"><div class="footer-body"><img src="/img/dubbo_gray.png"/><div class="cols-container"><div class="col col-12"><h3>免责声明</h3><p>免责声明的具体内容</p></div><div class="col col-6"><dl><dt>文档</dt><dd><a href="/zh-cn/docs/demo1.html" target="_self">概览</a></dd><dd><a href="/zh-cn/docs/demo2.html" target="_self">快速开始</a></dd><dd><a href="/zh-cn/docs/dir/demo3.html" target="_self">开发者指南</a></dd></dl></div><div class="col col-6"><dl><dt>资源</dt><dd><a href="/zh-cn/blog/index.html" target="_self">博客</a></dd><dd><a href="/zh-cn/community/index.html" target="_self">社区</a></dd></dl></div></div><div class="copyright"><span>Copyright © 2018 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span></div></div></footer></div></div>
+	<script src="https://f.alicdn.com/react/15.4.1/react-with-addons.min.js"></script>
+	<script src="https://f.alicdn.com/react/15.4.1/react-dom.min.js"></script>
+	<script>
+		window.rootPath = '';
+  </script>
+	<script src="/build/documentation.js"></script>
+</body>
+</html>

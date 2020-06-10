@@ -1,0 +1,6 @@
+{
+  "filename": "Start.md",
+  "__html": "<h1>Quik Start</h1>\n<p>GeoPS can run on windows x64 system with .net framework 4.5 or later.</p>\n<p>This soft can be directly open on the website through click the button of “Start Run, if using IE or edge browser which support for ClickOnce deployement. For the other browsers, please click the button “Setup” to download the setup.exe, and run it to setup the GeoPS.</p>\n<p><img src=\"../img/Help/Start.png\" alt=\"\"></p>\n<p>While run the software at the first time, windows system will prompt for a warning, because have not an expensive code signing certificate. Don't worry about it. Click the “more info” ，and then “run anyway” button.\n<img src=\"../img/Help/warning0.png\" alt=\"\">\n<img src=\"../img/Help/warning1.png\" alt=\"\"></p>\n",
+  "link": "\\en-us\\docs\\Instruction\\Start.html",
+  "meta": {}
+}
