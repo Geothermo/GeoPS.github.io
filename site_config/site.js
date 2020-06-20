@@ -1,9 +1,9 @@
 // 全局的一些配置
 export default {
-  rootPath: '/product', // 发布到服务器的根目录，需以/开头但不能有尾/，如果只有/，请填写空字符串
+  rootPath: '/dev', // 发布到服务器的根目录，需以/开头但不能有尾/，如果只有/，请填写空字符串
   port: 8086, // 本地开发服务器的启动端口
-  domain: 'dubbo.apache.org', // 站点部署域名，无需协议和path等
-  defaultSearch: 'google', // 默认搜索引擎，baidu或者google
+  domain: 'www.geops.org', // 站点部署域名，无需协议和path等
+  defaultSearch: 'baidu', // 默认搜索引擎，baidu或者google
   defaultLanguage: 'en-us',
   'en-us': {
     pageMenu: [
@@ -15,7 +15,12 @@ export default {
       {
         key: 'docs',
         text: 'DOCS',
-        link: '/en-us/docs/demo1.html',
+        link: '/en-us/docs/overview.html',
+      },
+      {
+        key: 'dev',
+        text: 'Developer',
+        link: '/en-us/blog/vision.html',
       },
       {
         key: 'blog',
@@ -37,15 +42,15 @@ export default {
       list: [
         {
           text: 'Overview',
-          link: '/en-us/docs/demo1.html',
+          link: '/en-us/docs/overview.html',
         },
         {
           text: 'Quick start',
-          link: '/en-us/docs/demo2.html',
+          link: '/en-us/docs/Instruction/start.html',
         },
         {
-          text: 'Developer guide',
-          link: '/en-us/docs/dir/demo3.html',
+          text: 'Dontributor guide',
+          link: '/en-us/blog/vision.html',
         },
       ],
     },
@@ -60,9 +65,13 @@ export default {
           text: 'Community',
           link: '/en-us/community/index.html',
         },
+        {
+          text: 'About us',
+          link: '/en-us/blog/about_us.html',
+        },
       ],
     },
-    copyright: 'Copyright © 2018 Xiang，Hua /向华',
+    copyright: 'Copyright © 2018-2020 Xiang，Hua /向华',
   },
   'zh-cn': {
     pageMenu: [
@@ -74,7 +83,12 @@ export default {
       {
         key: 'docs',
         text: '文档',
-        link: '/zh-cn/docs/demo1.html',
+        link: '/zh-cn/docs/overview.html',
+      },
+      {
+        key: 'Dev',
+        text: '开发者',
+        link: '/zh-cn/blog/vision.html',
       },
       {
         key: 'blog',
@@ -96,15 +110,15 @@ export default {
       list: [
         {
           text: '概览',
-          link: '/zh-cn/docs/demo1.html',
+          link: '/zh-cn/docs/overview.html',
         },
         {
           text: '快速开始',
-          link: '/zh-cn/docs/demo2.html',
+          link: '/zh-cn/docs/Instruction/start.html',
         },
         {
-          text: '开发者指南',
-          link: '/zh-cn/docs/dir/demo3.html',
+          text: '贡献者指南',
+          link: '/zh-cn/blog/vision.html',
         },
       ],
     },
@@ -118,6 +132,10 @@ export default {
         {
           text: '社区',
           link: '/zh-cn/community/index.html',
+        },
+        {
+          text: '关于我们',
+          link: '/zh-cn/blog/about_us.html',
         },
       ],
     },

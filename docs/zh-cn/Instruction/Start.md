@@ -1,12 +1,12 @@
 # 开始运行
 
 打开http://www.geops.org
-如果系统包含.net  Framework 4.5 或更高版本 (Windows10 都含有)，可以 直接点击 [Start Run](./demo1.md)。否则点击Setup按钮进行启动，会下载一个 setup 程序，检查系统必备组件，如果没有，则从mirosoft 下载安装相应的组件。也可以自己从Microsoft官网下载.net framework 4.5 或更高版本进行安装，然后在运行。
+如果系统包含.net  Framework 4.5 或更高版本 (Windows10 都含有)，可以 直接点击 [Start Run](./demo1.md)。否则点击Setup按钮进行启动，会下载一个 setup 程序，检查系统必备组件，如果没有，则从mirosoft 下载安装相应的组件。也可以自己从Microsoft官网下载 .net framework 4.5 或更高版本进行安装，然后在运行。
 
 注意事项： 如果是通过点击“启动”运行，最好使用IE 或系统自带的Edge 浏览器。
 
 由于没有购买昂贵的数字安全证书对程序进行签名，window10系统会提示安全警告，点击“更多信息”，选择仍要运行即可。
-![](../img/Help/system_warn.jpg)
+![](/img/Help/system_warn.jpg)
 
 # 注册
 

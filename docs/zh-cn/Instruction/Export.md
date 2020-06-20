@@ -7,4 +7,4 @@
     Grid：M×N个节点的规则网格
 
     Line：沿A到B点间的一条线输出。
-![](../img/Help/Output.png)
+![](/img/Help/Output.png)

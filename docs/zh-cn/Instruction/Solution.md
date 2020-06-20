@@ -41,13 +41,13 @@
         Min、Max 选填，为端元含量范围；
 
         dH、dS、 dV为端元的DQF值、 alpha为非对称模型中的van laar参数。
-![](../img/Help/solutionModel.jpg)
+![](/img/Help/solutionModel.jpg)
 
 在Site选项卡中编辑离子占位信息.
-![](../img/Help/solutionModel2.jpg)
+![](/img/Help/solutionModel2.jpg)
 
 在Interaction energy 选项卡中编辑Interaction energy信息.
-![](../img/Help/solutionModel3.jpg)
+![](/img/Help/solutionModel3.jpg)
 
 编辑完成后，点击 “Apply”按钮确认所做的编辑。再及时保存活度模型文件。
 

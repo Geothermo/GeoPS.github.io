@@ -1,4 +1,4 @@
 # 计算及显示
 
 选择菜单 计算—> 计算视剖面图， 然后程序开始自动计算，等待结果就行。
-![](../img/Help/GeopsDemo.gif)
+![](/img/Help/GeopsDemo.gif)

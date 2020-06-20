@@ -59,6 +59,24 @@
   ],
   "zh-cn": [
     {
+      "filename": "About_US.md",
+      "link": "\\zh-cn\\blog\\About_US.html",
+      "meta": {
+        "Name": "向华",
+        "Email": "xianghua2710@gmail.com",
+        "Interest": "深部地质过程量化模型"
+      }
+    },
+    {
+      "filename": "About_US_list.md",
+      "link": "\\zh-cn\\blog\\About_US_list.html",
+      "meta": {
+        "Name": "向华",
+        "Email": "xianghua2710@gmail.com",
+        "Interest": "深部地质过程量化模型"
+      }
+    },
+    {
       "filename": "blog1.md",
       "link": "\\zh-cn\\blog\\blog1.html",
       "meta": {
@@ -83,8 +101,34 @@
       }
     },
     {
+      "filename": "report.md",
+      "link": "\\zh-cn\\blog\\report.html",
+      "meta": {}
+    },
+    {
+      "filename": "schedule.md",
+      "link": "\\zh-cn\\blog\\schedule.html",
+      "meta": {
+        "key1": "项目规划",
+        "key2": "工作计划"
+      }
+    },
+    {
+      "filename": "vision.md",
+      "link": "\\zh-cn\\blog\\vision.html",
+      "meta": {}
+    },
+    {
+      "filename": "blog3.md",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog3.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
       "filename": "blog4.md",
-      "link": "\\zh-cn\\blog\\blog4.html",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog4.html",
       "meta": {
         "key1": "hello",
         "key2": "world"
@@ -92,7 +136,7 @@
     },
     {
       "filename": "blog5.md",
-      "link": "\\zh-cn\\blog\\blog5.html",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog5.html",
       "meta": {
         "key1": "hello",
         "key2": "world"
@@ -100,7 +144,7 @@
     },
     {
       "filename": "blog6.md",
-      "link": "\\zh-cn\\blog\\blog6.html",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog6.html",
       "meta": {
         "key1": "hello",
         "key2": "world"
@@ -108,7 +152,15 @@
     },
     {
       "filename": "blog7.md",
-      "link": "\\zh-cn\\blog\\blog7.html",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog7.html",
+      "meta": {
+        "key1": "hello",
+        "key2": "world"
+      }
+    },
+    {
+      "filename": "blog8.md",
+      "link": "\\zh-cn\\blog\\新建文件夹\\blog8.html",
       "meta": {
         "key1": "hello",
         "key2": "world"

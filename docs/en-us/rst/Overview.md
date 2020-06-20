@@ -5,15 +5,15 @@ In order to demonstrate the reliability of GeoPS, we recalculated several phase 
 # P-T pseudosections of metapelites in NCFMASOCR system
 
 MThe left figure is the Fig.9 in White et al., 2014 JMG which is calculated by Thermocalc. The right one is calculated by GeoPS with the same dataset and a-x models with that of this paper.
-![](../img/Help/W2014MnF9.jpg)
+![](/img/Help/W2014MnF9.jpg)
 
 # P-T pseduosections of ultrabasic rocks in NCFMASOCR system
 
 The left one is the Fig.1 of Jennings and Holland 2015 which is calculated by Thermocalc. The right one is calculated by GeoPS with the same dataset and a-x models of this paper. download the input data
-![](../img/Help/KLB-JH2015c.jpg)
+![](/img/Help/KLB-JH2015c.jpg)
 
 # P-T pseudosections of metamafic rocks in MNNCKFMASHTO system
 
 The left figure is the Fig.6 in Green et al., 2016 JMG which is calculated by Thermocalc. The right one is calculated by GeoPS.
 
-![](../img/Help/BL487.jpg)
+![](/img/Help/BL487.jpg)

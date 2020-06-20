@@ -1,0 +1,6 @@
+{
+  "filename": "W14F9a.md",
+  "__html": "<h1>不同软件计算结果比较: White et al., 2014中的Fig. 9</h1>\n<h2>原文中的图：</h2>\n<p>引自White, R., Powell, R., Holland, T., Johnson, T., Green, E., 2014. New mineral activity–composition relations for thermodynamic calculations in metapelitic systems. Journal of Metamorphic Geology 32, 261-286.\n<img src=\"/img/Help/w14f9a-origin.png\" alt=\"原图\"></p>\n<h2>GeoPS计算结果：</h2>\n<p><img src=\"/img/Help/W14F9a-1th.jpg\" alt=\"GeoPS计算结果\"></p>\n<h2>Domino计算结果：</h2>\n<p>Theriak-Domino 采用的是D.K. Tinkham版本，来自： <a href=\"http://dtinkham.net/peq.html\">http://dtinkham.net/peq.html</a>\n<img src=\"/img/Help/W14F9a-domino.jpg\" alt=\"Domino计算结果\"></p>\n<h2>PerPle_X计算结果：</h2>\n<p>所用版本为Perple_X 6.8.6，其中initial_resolution设为 1/8 1/20，其余为默认设置。</p>\n<p><img src=\"/img/Help/W14F9a-perplex.jpg\" alt=\"PerPle_X计算结果\"></p>\n",
+  "link": "\\zh-cn\\docs\\rst\\W14F9a.html",
+  "meta": {}
+}

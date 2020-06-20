@@ -1,6 +1,6 @@
 {
   "filename": "Export.md",
-  "__html": "<h1>导出结果</h1>\n<p>将计算结果以文本格式导出到csv文件。可在输出对话框中选择要导出的矿物相、内容，以及形式。包括3中类型：</p>\n<pre><code>Nodes，按计算的节点输出，为不规则网格。\n\nGrid：M×N个节点的规则网格\n\nLine：沿A到B点间的一条线输出。\n</code></pre>\n<p><img src=\"../img/Help/Output.png\" alt=\"\"></p>\n",
+  "__html": "<h1>Output Results Data</h1>\n<p>Export the calculation results to a CSV file in text format. In the Export dialog box, select the mineral phase, elements, and format which are expected to export. There are 3 types:</p>\n<pre><code>Nodes，output results of the calculated nodes, which belong an irregular grid.\n\nGrid：a regular grid with M × N nodes\n\nLine：along a line from point a to point B。\n</code></pre>\n<p><img src=\"/img/Help/Output.png\" alt=\"\"></p>\n",
   "link": "\\en-us\\docs\\Instruction\\Export.html",
   "meta": {}
 }

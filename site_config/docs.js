@@ -3,16 +3,18 @@ export default {
     sidemenu: [
       {
         title: 'User Docs',
-        link: '/en-us/docs/rst/green.html',
+        link: '/en-us/docs/overview.html',
         children: [
           {
-            title: 'RELIABLE Results',
+            title: 'OVERVIEW',
+            link: '/en-us/docs/overview.html',
+          },
+
+          {
+            title: 'RELIABILITY OF RESULTS',
             opened: true,
             children: [
-              {
-                title: 'Overview',
-                link: '/en-us/docs/rst/overview.html',
-              },
+              
               {
                 title: 'White_2014',
                 link: '/en-us/docs/rst/white.html',
@@ -28,7 +30,7 @@ export default {
             ],
           },
           {
-            title: 'Instruction',
+            title: 'INSTRUCTION',
             opened: true,
             children: [
               {
@@ -40,7 +42,7 @@ export default {
                 link: '/en-us/docs/Instruction/createtask.html',
               },
               {
-                title: 'Calculate and display',
+                title: 'Calculation and display',
                 link: '/en-us/docs/Instruction/calc.html',
               },
               {
@@ -48,7 +50,7 @@ export default {
                 link: '/en-us/docs/Instruction/Datashow.html',
               },
               {
-                title: 'Recalculate',
+                title: 'Local area recalculation',
                 link: '/en-us/docs/Instruction/recalc.html',
               },
               {
@@ -56,23 +58,27 @@ export default {
                 link: '/en-us/docs/Instruction/ISOpleth.html',
               },
               {
-                title: 'Save results',
+                title: 'Save Results',
                 link: '/en-us/docs/Instruction/output.html',
               },
               {
-                title: 'Result output',
-                link: '/en-us/docs/Instruction/export.html',
-              },
-              {
-                title: 'Add solution model',
+                title: 'Custom solution model',
                 link: '/en-us/docs/Instruction/solution.html',
               },
             ],
           },
           {
-            title: 'Updates',
+            title: 'RELEASE HISTORY',
             opened: true,
             children: [
+              {
+                title: 'v2.6.2',
+                link: '/zh-cn/docs/dir/v2.6.2.70.html',
+              },
+              {
+                title: 'v2.6.1.69',
+                link: '/zh-cn/docs/dir/v2.6.1.69.html',
+              },
               {
                 title: 'v2.6.1',
                 link: '/en-us/docs/dir/v2.6.1.66.html',
@@ -91,10 +97,7 @@ export default {
               },
             ],
           },
-          {
-            title: 'FAQ',
-            link: '/en-us/docs/dir/v2.0.1.20.html',
-          },
+          
         ],
       },
     ],
@@ -105,9 +108,12 @@ export default {
       {
         title: '目录',
         children: [
-
           {
-            title: '与THERMOCALC结果对比',
+            title: '概述',
+            link: '/zh-cn/docs/overview.html',
+          },
+          {
+            title: '结果可靠性',
             opened: true,
             children: [
               {
@@ -122,14 +128,7 @@ export default {
                 title: 'Jennings_2015',
                 link: '/zh-cn/docs/rst/jh15.html',
               },
-              {
-                title: '查看结果',
-                link: '/zh-cn/docs/Instruction/Datashow.html',
-              },
-              {
-                title: '局部重算',
-                link: '/zh-cn/docs/Instruction/recalc.html',
-              },
+             
             ],
           },
           {
@@ -169,7 +168,7 @@ export default {
                 link: '/zh-cn/docs/Instruction/export.html',
               },
               {
-                title: '溶体模型',
+                title: '自定义溶体模型',
                 link: '/zh-cn/docs/Instruction/solution.html',
               },
             ],
@@ -178,6 +177,14 @@ export default {
             title: '更新历史',
             opened: true,
             children: [
+              {
+                title: 'v2.6.2',
+                link: '/zh-cn/docs/dir/v2.6.2.70.html',
+              },
+              {
+                title: 'v2.6.1.69',
+                link: '/zh-cn/docs/dir/v2.6.1.69.html',
+              },
               {
                 title: 'v2.6.1',
                 link: '/zh-cn/docs/dir/v2.6.1.66.html',

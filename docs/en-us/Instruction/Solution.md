@@ -41,13 +41,13 @@ Open the solution model setting window through the "Settings->> Activity Model" 
         min and Max is the range of endmenber (optional).
 
         DH, DS and DV are the DQF values of the endmenbers, and alpha is the van Laar parameter in the asymmetric model.
-![](../img/Help/solutionModel.jpg)
+![](/img/Help/solutionModel.jpg)
 
 Edit the ion occupation information in the Site tab.
-![](../img/Help/solutionModel2.jpg)
+![](/img/Help/solutionModel2.jpg)
 
 Edit the Interaction energy information in the Interaction energy tab.
-![](../img/Help/solutionModel3.jpg)
+![](/img/Help/solutionModel3.jpg)
 
 After editing, click the "Apply" button to confirm the edit. Then save the solution model file in time.
 

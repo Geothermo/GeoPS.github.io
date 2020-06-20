@@ -1,0 +1,6 @@
+{
+  "filename": "BL487_No_Sol.md",
+  "__html": "<h1>Comparison of results from different software: BL487 without solutions</h1>\n<p>  For a sample system which only need short time to finish computing, GeoPS will takes more time than Perple_X. However, GeoPS can directly show the result diagram.</p>\n<h2>GeoPS ：</h2>\n<p><img src=\"/img/Help/BL487-NO_Sol_1th.jpg\" alt=\"GeoPS计算结果\"></p>\n<h2>PerPle_X ：</h2>\n<p>Perple_X 6.8.6 is used，options are default。</p>\n<p><img src=\"/img/Help/BL487-NO_Sol_perplex.jpg\" alt=\"PerPle_X计算结果\"></p>\n",
+  "link": "\\en-us\\docs\\rst\\BL487_No_Sol.html",
+  "meta": {}
+}

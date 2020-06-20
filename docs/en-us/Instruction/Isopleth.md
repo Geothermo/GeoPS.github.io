@@ -7,9 +7,9 @@
 3、click “Next” button, then the range and intervals of the contour lines will be automatically given. Users also are allowed to modify these.
 
 4、Click "OK". The isopleth will soon display on the main interface.
-![](../img/Help/Calc%20isopleth.jpg)
+![](/img/Help/Calc%20isopleth.jpg)
 
 5、Double-click the isopleth label in the layer panel, user is allowed to modify the lines or fill color, range and interval of contour.
-![](../img/Help/Modify%20Isopleth.jpg)
+![](/img/Help/Modify%20Isopleth.jpg)
 
 6、The value of each contour lines is displayed on the labels of child nodes in the layer panel. The color of contour lines can be changed through double-click the child nodes independently.

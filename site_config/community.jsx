@@ -27,34 +27,7 @@ export default {
           dateStr: 'May 12nd，2018',
           link: '/en-us/blog/blog3.html',
         },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: 'this is the title',
-          content: 'this is the content',
-          dateStr: 'May 12nd，2018',
-          link: '/en-us/blog/blog4.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: 'this is the title',
-          content: 'this is the content',
-          dateStr: 'May 12nd，2018',
-          link: '/en-us/blog/blog5.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: 'this is the title',
-          content: 'this is the content',
-          dateStr: 'May 12nd，2018',
-          link: '/en-us/blog/blog6.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: 'this is the title',
-          content: 'this is the content',
-          dateStr: 'May 12nd，2018',
-          link: '/en-us/blog/blog7.html',
-        },
+        
       ]
     },
     contacts: {
@@ -192,34 +165,7 @@ export default {
           dateStr: 'May 12nd，2018',
           link: '/zh-cn/blog/blog3.html',
         },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: '这是标题',
-          content: '这是内容',
-          dateStr: 'May 12nd，2018',
-          link: '/zh-cn/blog/blog4.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: '这是标题',
-          content: '这是内容',
-          dateStr: 'May 12nd，2018',
-          link: '/zh-cn/blog/blog5.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: '这是标题',
-          content: '这是内容',
-          dateStr: 'May 12nd，2018',
-          link: '/zh-cn/blog/blog6.html',
-        },
-        {
-          img: '/img/brhtqqzh.jpeg',
-          title: '这是标题',
-          content: '这是内容',
-          dateStr: 'May 12nd，2018',
-          link: '/zh-cn/blog/blog7.html',
-        },
+        
       ]
     },
     contacts: {

@@ -7,4 +7,4 @@
 文件-》保存为矢量图 ： 将计算的结果保存为SVG格式的矢量图
 
 文件-》保存为位图： 将计算结果保存为位图， 支持格式包括Jpg、bmp、tif。
-![](../img/Help/output.jpg)
+![](/img/Help/output.jpg)

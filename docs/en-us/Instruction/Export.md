@@ -1,10 +1,11 @@
-# 导出结果
+# Output Results Data 
 
-将计算结果以文本格式导出到csv文件。可在输出对话框中选择要导出的矿物相、内容，以及形式。包括3中类型：
 
-    Nodes，按计算的节点输出，为不规则网格。
+Export the calculation results to a CSV file in text format. In the Export dialog box, select the mineral phase, elements, and format which are expected to export. There are 3 types:
 
-    Grid：M×N个节点的规则网格
+    Nodes，output results of the calculated nodes, which belong an irregular grid.
 
-    Line：沿A到B点间的一条线输出。
-![](../img/Help/Output.png)
+    Grid：a regular grid with M × N nodes
+
+    Line：along a line from point a to point B。
+![](/img/Help/Output.png)
