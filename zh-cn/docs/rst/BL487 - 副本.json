@@ -1,6 +1,0 @@
-{
-  "filename": "BL487 - 副本.md",
-  "__html": "<h1>不同软件计算结果比较: BL487 （Green et al., 2014中的Fig. 9）</h1>\n<h2>原文中的图：</h2>\n<p>Green, E., White, R., Diener, J., Powell, R., Holland, T., Palin, R., 2016. Activity–composition relations for the calculation of partial melting equilibria in metabasic rocks. Journal of Metamorphic Geology 34, 845–869.  https://doi:10.1111/jmg.12211\n<img src=\"/img/Help/BL487-origin.png\" alt=\"原图\"></p>\n<h2>GeoPS计算结果：</h2>\n<p><img src=\"/img/Help/BL487-1th.jpg\" alt=\"GeoPS计算结果\"></p>\n<h2>Domino计算结果：</h2>\n<p>Theriak-Domino 采用的是D.K. Tinkham版本，来自： <a href=\"http://dtinkham.net/peq.html\">http://dtinkham.net/peq.html</a>\n<img src=\"/img/Help/BL487-domino.jpg\" alt=\"Domino计算结果\"></p>\n<h4>Theriak-Domino 与THERMOCALC结果比较，来自D.K. Tinkham的主页：<a href=\"http://dtinkham.net/peq.html\">http://dtinkham.net/peq.html</a></h4>\n<p><img src=\"http://dtinkham.net/Thermocalc-Theriak-Domino-Comparison-BL478.png\" alt=\"Domino计算结果\"></p>\n<h2>PerPle_X计算结果：</h2>\n<p>所用版本为Perple_X 6.8.6，其中initial_resolution设为 1/8 1/16，其余为默认设置。</p>\n<p>计算结果与Perple_X官网提供的测试结果一致，见：<a href=\"http://www.perplex.ethz.ch/perplex/examples/bl478_benchmark.pdf\">http://www.perplex.ethz.ch/perplex/examples/bl478_benchmark.pdf</a>\n<img src=\"/img/Help/BL487-perplex.jpg\" alt=\"PerPle_X计算结果\"></p>\n",
-  "link": "\\zh-cn\\docs\\rst\\BL487 - 副本.html",
-  "meta": {}
-}

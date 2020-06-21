@@ -4,6 +4,12 @@
 
 &emsp; GeoPS is a free, open source, visual phase equilibrium simulating software, which based on Gibbs free energy minimum method. 
 
+&emsp; It provides a wide range of phase equilibria calculations and illustration facilities, include calculation various type of phase diagrams (P-T, P-X, T-X, X-X), isopleths, and thermodynamic modelling for path-dependent open system processes. And more functions are being developed.
+
+&emsp; What you see is what you get. The friendly GUI and no cost of learning make thermodynamic modelling accessible to any researchers and students of earth sciences. 
+
+&emsp; Super-high efficiency makes you can get the results while you wait, even for modelling of a complex system.
+
 # How Fast?
 
 &emsp; Well-designed architecture and data structures, efficient algorithms make exceptional computing efficiency. It need only a few minutes to completed a complex phase diagram. To quantitate the speed, the following table compares the performance of three different soft in same test platform. 
@@ -43,6 +49,6 @@
 
 ![](/img/Help/BL487.jpg)
 
-# Sufficiently Low Costs Of Learning And Using
-&emsp; Even without experiences of phase equilibrium modelling, the user also can easily use GeoPS to implement a phase equilibrium computing in a few minutes. It is very easy to obtain the software. It can be directly opened or installed from this website home page. After input of bulk composition, the phase diagram calculation can be completed automatically with one click. And the preliminary results during the calculation process will also be displayed on the main interface in time.
+# No Costs Of Learning
+&emsp; User can easily use GeoPS to implement a phase equilibrium computing in a few minutes，even has no experiences of phase equilibrium modelling. It is very easy to obtain the software. It can be directly opened or installed from this website home page. After input of bulk composition, the phase diagram calculation can be completed automatically with one click. And the preliminary results during the calculation process will be displayed on the main interface in time.
 ![](/img/Help/GeoPS_Demo.gif)

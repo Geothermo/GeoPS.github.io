@@ -157,14 +157,6 @@
         "key1": "hello",
         "key2": "world"
       }
-    },
-    {
-      "filename": "blog8.md",
-      "link": "\\zh-cn\\blog\\新建文件夹\\blog8.html",
-      "meta": {
-        "key1": "hello",
-        "key2": "world"
-      }
     }
   ]
 }

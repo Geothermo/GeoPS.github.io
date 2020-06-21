@@ -1,6 +1,6 @@
 {
   "filename": "BL487_No_Sol.md",
-  "__html": "<h1>不同软件计算结果比较: BL487 不包含溶体相</h1>\n<p>   尽管对于只需要花费很短时间计算的简单体系，GeoPS的计算速度较Perple_X慢，但GeoPS直接显示了图形结果，而Perple_X还需再作图。</p>\n<h2>GeoPS计算结果：</h2>\n<p><img src=\"/img/Help/BL487-NO_Sol_1th.jpg\" alt=\"GeoPS计算结果\"></p>\n<h2>PerPle_X计算结果：</h2>\n<p>所用版本为Perple_X 6.8.6，默认设置。</p>\n<p><img src=\"/img/Help/BL487-NO_Sol_perplex.jpg\" alt=\"PerPle_X计算结果\"></p>\n",
+  "__html": "<h1>不同软件计算结果比较: BL487 不含溶体相</h1>\n<p>   尽管对于只需要花费很短时间计算的简单体系，GeoPS的计算速度较Perple_X慢，但GeoPS直接显示了图形结果，而Perple_X还需再作图。</p>\n<h2>GeoPS计算结果：</h2>\n<p><img src=\"/img/Help/BL487-NO_Sol_1th.jpg\" alt=\"GeoPS计算结果\"></p>\n<h2>PerPle_X计算结果：</h2>\n<p>所用版本为Perple_X 6.8.6，默认设置。</p>\n<p><img src=\"/img/Help/BL487-NO_Sol_perplex.jpg\" alt=\"PerPle_X计算结果\"></p>\n",
   "link": "\\zh-cn\\docs\\rst\\BL487_No_Sol.html",
   "meta": {}
 }

@@ -107,7 +107,7 @@ export default {
   'en-us': {
     brand: {
       brandName: 'GeoPS：Geo - Phase equilibria Simulator',
-      briefIntroduction: 'A super-efficient visual computing platform for phase equilibria simulation base on Gibbs free energy minimization method.',
+      briefIntroduction: 'A high performance visualization program for phase equilibria modelling base on Gibbs free energy minimization method.',
       briefIntroduction2: 'To make phase equilibria modelling is accessible to anyone in need',
       briefIntroduction3: 'It requires Windows x64 OS with .net framework 4.5 or later',
       buttons: [
@@ -130,7 +130,7 @@ export default {
       desc1: 'A user-friendly visual computing tool, what you wee is what you get.',
       desc2: 'With much higher efficiency，you can get results while you wait.',
 
-      img: '/img/GeoPS_Demo1.gif',
+      img: '/img/GeoPS_GUI.jpg',
       button: {
         text: 'READ MORE',
         link: '/en-us/docs/rst/overview.html',
@@ -141,7 +141,7 @@ export default {
       list: [
         {
           img: '/img/feature_transpart.png',
-          title: 'Easy To Use',
+          title: 'EASY To Use',
           content: 'The calculations are done automatically with practically no user intervention. During calculating phase diagram, it is Only necessary to input bulk compositions and P-T range. For senior users, also are allowed to change various parameters to achieve personalized calculation.',
         },
         {
@@ -151,22 +151,22 @@ export default {
         },
         {
           img: '/img/feature_service.png',
-          title: 'High efficiency',
+          title: 'HIGH Efficiency',
           content: 'In a few minutes, it can finish a phase diagram calculation in a complex system. The well-designed architecture, algorithm and multi-threading parallel computing create extraordinary computing efficiency. Compared with the other related software, its speed is much faster.',
         },
         {
           img: '/img/feature_hogh.png',
-          title: 'VISUALIZATION COMPUTING',
+          title: 'VISUALIZATION Computing',
           content: 'Through the visualization of computing process, the preliminary results will be timely displayed on the soft interface during computing. Hence, the user is allowed to see and deal the preliminary results, acquaint the progress of the calculation and also can stop the calculation if required.',
         },
         {
           img: '/img/feature_runtime.png',
-          title: 'ONE STOP SOLUTION',
+          title: 'ONE-STOP Solution',
           content: 'Seamless integration of fully functions, including creating task, computing, calculating isopleths, visualization of calculated results, graph display and modification, interactive data display, etc. It is an important goal to provides highly efficient and smooth user experience and make user enjoy thermodynamic simulation.',
         },
         {
           img: '/img/feature_maintenance.png',
-          title: 'SUPPORT MULTIPLE OUTPUT TYPES',
+          title: 'OUTPUT To Multiple Formats',
           content: 'GeoPS can create high-quality and ready-to-use vector graphics (SVG format), and also can output bitmap formats figures, such as JPEG and BMP. The calculated results, including assemblages, mode and compositions of phases, etc., can output in CSV format which can be analyzed directly in excel.',
         }
       ]

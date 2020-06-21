@@ -38,7 +38,7 @@ export default {
           img: '/img/mailinglist.png',
           imgHover: '/img/mailinglist_hover.png',
           title: 'Mailing List',
-          link: 'mailto:xianghua2710@gmail.com'
+          link: 'mailto:geops@foxmail.com;xianghua2710@gmail.com'
         },
         {
           img: '/img/alibaba.png',
@@ -176,7 +176,7 @@ export default {
           img: '/img/mailinglist.png',
           imgHover: '/img/mailinglist_hover.png',
           title: '邮件列表',
-          link: 'mailto:xianghua2710@gmail.com'
+          link: 'mailto:geops@foxmail.com;xianghua2710@gmail.com'
         },
         {
           img: '/img/alibaba.png',
