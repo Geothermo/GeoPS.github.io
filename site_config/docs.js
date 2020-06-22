@@ -34,7 +34,7 @@ export default {
             opened: true,
             children: [
               {
-                title: 'Start',
+                title: 'Get & Start',
                 link: '/en-us/docs/Instruction/start.html',
               },
               {
@@ -72,15 +72,15 @@ export default {
             opened: true,
             children: [
               {
-                title: 'v2.6.2',
+                title: 'v2.6.1',
                 link: '/zh-cn/docs/dir/v2.6.2.70.html',
               },
               {
-                title: 'v2.6.1.69',
+                title: 'v2.6.0.69',
                 link: '/zh-cn/docs/dir/v2.6.1.69.html',
               },
               {
-                title: 'v2.6.1',
+                title: 'v2.6.0',
                 link: '/en-us/docs/dir/v2.6.1.66.html',
               },
               {
@@ -178,15 +178,15 @@ export default {
             opened: true,
             children: [
               {
-                title: 'v2.6.2',
+                title: 'v2.6.1',
                 link: '/zh-cn/docs/dir/v2.6.2.70.html',
               },
               {
-                title: 'v2.6.1.69',
+                title: 'v2.6.0.69',
                 link: '/zh-cn/docs/dir/v2.6.1.69.html',
               },
               {
-                title: 'v2.6.1',
+                title: 'v2.6.0',
                 link: '/zh-cn/docs/dir/v2.6.1.66.html',
               },
               {

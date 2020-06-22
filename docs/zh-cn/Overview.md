@@ -2,7 +2,7 @@
 
 &emsp;&emsp; 热力学相平衡是定量化研究深部地质过程的关键手段。可以对变质和岩浆作用进行定量正演模拟计算，预测不同条件下的稳定矿物组合、成分以及元素分配行为以及各种物理化学性质，是确定变质P-T条件及演化轨迹的主要方法。
 
-&emsp;&emsp; GeoPS是一款免费的、开源的可视化相平衡模拟软件。基于Gibbs自由能最小法，视窗操作程序，界面友好，无需学习就可计算相图。具有：
+&emsp;&emsp; GeoPS是一款免费的可视化相平衡模拟软件。基于Gibbs自由能最小法，视窗操作程序，界面友好，无需学习就可计算相图。具有：
 
 * &emsp;&emsp; 不断丰富和完善的功能。实现计算各种复杂体系下岩石的P-T、P-X、T-X和X-X视剖面图，以及矿物含量或成分等值线等图件。更多新功能正在开发中。
 
@@ -16,15 +16,20 @@
 
 &emsp;&emsp; 精心设计的架构和数据结构+高效的算法+并行计算，造就非凡的计算效率。在数分钟内就可以完成复杂体系下的岩石相图计算，计算速度比同类软件快1~2个数量级。
 
-&emsp;&emsp; 测试设备：Dell XPS-15 笔记本电脑，CPU i7-6700HQ 2.6GHz, 16G内存， Windows10 ×64 家庭版
+&emsp;&emsp; 测试设备：
 
-|<div style="width: 60pt"> 图                          |<div style="width: 60pt"> GeoPS   <br> 1 thread|<div style="width: 60pt"> GeoPS   <br> 4 threads    | Perple_X <br> v6.8.6 | Domino     | 备注 |
-| :-----------------------    | :-------------------------- | :----:  | :----:               | :----:     | :----: |
-| BL487 <br> Green 2016 Fig.9 | 8m30s; <Br>Pre:<1m | 3m25s <Br> Pre：<30s  | ~17h                | 2h57m      | Perple_X 中initial_resolution设为 1/8 1/16，其余为默认设置。<br>[查看计算结果](./RST/bl487.html)|
-|White 2014 Fig.9a            |20m05s; <Br>Pre:<1m | 5m1s <Br> Pre：<30s    |1h23m                | 1h31m22.34s |Perple_X 中initial_resolution设为 1/10 1/20，其余为默认设置。<br>[查看计算结果](./RST/W14f9a.html)|
-|KLB-1 <br>J&H 2015 Fig.1     |8m01s; <Br>Pre:<1m  | 1m51s <Br> Pre：<20s  |     |       |     |
-| BL487 <br> Without solutions | 22s; <Br>Pre:3s | 20s <Br> Pre：<3s  | 2s                |       | Perple_X 默认设置。<br>[查看计算结果](./RST/bl487_No_Sol.html)|
+&emsp;&emsp; A: Dell XPS-15 笔记本电脑，CPU i7-6700HQ 2.6GHz, 16G内存， Windows10 ×64 家庭版
 
+&emsp;&emsp; B: Lenovo ThinkCentre M8300 台式电脑，CPU i7-2600 @3,4Hz, 16G内存， Windows10 pro ×64 
+
+|<div style="width: 60pt"> 图 |<div style="width: 55pt"> GeoPS   <br> 1 thread <sup>a</sup>|<div style="width: 55pt"> GeoPS   <br>1 thread<sup>b</sup>|<div style="width: 60pt"> GeoPS   <br> 4 threads<sup>b</sup>   | Perple_X <br> v6.8.6 | Domino     | 备注 |
+| :-----------------------    | :--------------------------   | :-------------------------- |:----:  | :----:               | :----:     | :----: |
+| BL487 <br> Green 2016 Fig.9 | 8m30s; <Br>Pre:<1m | 6m29s; <Br>Pre:<1m    |3m25s <Br> Pre：<30s  | ~17h                | 2h57m      | Perple_X 中initial_resolution设为 1/8 1/16，其余为默认设置。<br>[查看计算结果](./RST/bl487.html)|
+|White 2014 Fig.9a            |17m25s; <Br>Pre:<1m | 13m16s; <Br>Pre:~40s |4m8s <Br> Pre：<30s    |1h23m                | 1h31m22.34s |Perple_X 中initial_resolution设为 1/10 1/20，其余为默认设置。<br>[查看计算结果](./RST/W14f9a.html)|
+|KLB-1 <br>J&H 2015 Fig.1     |8m01s; <Br>Pre:<1m  |5m30s; <Br>Pre:~30s  |1m51s <Br> Pre：<20s  |     |       |     |
+| BL487 <br> Without solutions | 22s; <Br>Pre:3s |  21s; <Br>Pre:2s    |20s <Br> Pre：<3s  | 2s                |       | Perple_X 默认设置。<br>[查看计算结果](./RST/bl487_No_Sol.html)|
+	  a: Computer A;
+	  b: Computer B;
 	  Pre: 初步结果；
 	  Perple_X和Theriak-Domino的时间仅包含计算时间，不包括作图时间；GeoPS的时间包括计算和绘图。
 	  Theriak-Domino 采用的是D.K. Tinkham版本，来自： http://dtinkham.net/peq.html 

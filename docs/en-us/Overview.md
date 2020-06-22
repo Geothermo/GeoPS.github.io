@@ -2,7 +2,7 @@
 
 &emsp; Thermodynamic phase equilibrium modeling paves the way toward a quantitative understanding of geological processes such as metamorphism and magmatism. It can forward simulate the metamorphic or magmatic system, to predict the stable mineral assemblages, compositions and various physical and chemical properties of given P-T conditions. Phase equilibrium modeling also has been a very important method to determine the metamorphic P-T condition and evolution path of rocks.
 
-&emsp; GeoPS is a free, open source, visual phase equilibrium simulating software, which based on Gibbs free energy minimum method. 
+&emsp; GeoPS is a free visual phase equilibrium simulating software, which based on Gibbs free energy minimum method. 
 
 &emsp; It provides a wide range of phase equilibria calculations and illustration facilities, include calculation various type of phase diagrams (P-T, P-X, T-X, X-X), isopleths, and thermodynamic modelling for path-dependent open system processes. And more functions are being developed.
 
@@ -14,14 +14,20 @@
 
 &emsp; Well-designed architecture and data structures, efficient algorithms make exceptional computing efficiency. It need only a few minutes to completed a complex phase diagram. To quantitate the speed, the following table compares the performance of three different soft in same test platform. 
 
-&emsp; Test platform：Dell XPS-15 Laptop，CPU i7-6700HQ 2.6GHz, 16G RAM， Windows10 ×64 Home
+&emsp; Test platform：
 
-|<div style="width: 60pt"> Fig.                          |<div style="width: 60pt"> GeoPS   <br> 1 thread|<div style="width: 60pt"> GeoPS   <br> 4 threads    | Perple_X <br> v6.8.6 | Domino     | Note |
-| :-----------------------    | :-------------------------- | :----:  | :----:               | :----:     | :----: |
-| BL487 <br> Green 2016 Fig.9 | 8m30s; <Br>Pre:<1m | 3m25s <Br> Pre：<30s  | ~17h                | 2h57m      | In Perple_X, initial_resolution=[1/8 1/16], the rest of options are default.<br>[See results](./rst/bl487.html)|
-|White 2014 Fig.9a            |20m05s; <Br>Pre:<1m | 5m1s <Br> Pre：<30s    |1h23m                | 1h31m22.34s |In Perple_X, initial_resolution=[1/10 1/20], the rest of options are default.<br>[See results](./rst/W14f9a.html)|
-|KLB-1 <br>J&H 2015 Fig.1     |8m1s; <Br>Pre:<1m  | 1m51s <Br> Pre：<20s  |     |       |     |
-| BL487 <br> Without solutions | 22s; <Br>Pre:3s | 20s <Br> Pre：<3s  | 2s                |       | Perple_X default options。<br>[See results](./RST/bl487_No_Sol.html)|
+&emsp;&emsp; A: Dell XPS-15 Laptop，CPU i7-6700HQ 2.6GHz, 16G RAM， Windows10 ×64 Home
+
+&emsp;&emsp; B: Lenovo ThinkCentre M8300 Desktop，CPU i7-2600 @3,4Hz, 16G RAM， Windows10 pro ×64 
+
+|<div style="width: 60pt"> Fig. |<div style="width: 55pt"> GeoPS   <br> 1 thread <sup>a</sup>|<div style="width: 55pt"> GeoPS   <br>1 thread<sup>b</sup>|<div style="width: 60pt"> GeoPS   <br> 4 threads<sup>b</sup>   | Perple_X <br> v6.8.6 | Domino     | Note |
+| :-----------------------    | :--------------------------   | :-------------------------- |:----:  | :----:               | :----:     | :----: |
+| BL487 <br> Green 2016 Fig.9 | 8m30s; <Br>Pre:<1m | 6m29s; <Br>Pre:<1m    |3m25s <Br> Pre：<30s  | ~17h                | 2h57m      | In Perple_X, initial_resolution=[1/8 1/16], the rest of options are default.<br>[See results](./rst/bl487.html)|
+|White 2014 Fig.9a            |17m25s; <Br>Pre:<1m | 13m16s; <Br>Pre:~40s |4m8s <Br> Pre：<30s    |1h23m                | 1h31m22.34s |In Perple_X, initial_resolution=[1/10 1/20], the rest of options are default.<br>[See results](./rst/W14f9a.html)|
+|KLB-1 <br>J&H 2015 Fig.1     |8m01s; <Br>Pre:<1m  |5m30s; <Br>Pre:~30s  |1m51s <Br> Pre：<20s  |     |       |     |
+| BL487 <br> Without solutions | 22s; <Br>Pre:3s |  21s; <Br>Pre:2s    |20s <Br> Pre：<3s  | 2s                |       | Perple_X default options。<br>[See results](./RST/bl487_No_Sol.html)|
+	  a：computer A；
+	  b： computer B；
 	  Pre: Preliminary result；
 	  For Perple_X and Theriak-Domino, the time is only computation time, not include creating diagram；The time of GeoPS include computing and drawing.
 	  Theriak-Domino, using the version of D.K. Tinkham，from： http://dtinkham.net/peq.html 
